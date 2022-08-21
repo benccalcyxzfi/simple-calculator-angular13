@@ -32,7 +32,7 @@
 
 # clone the repository
 
-git clone https://github.com/benccalcyxzfi/calculadora-angular13
+git clone https://github.com/benccalcyxzfi/simple-calculator-angular13
 
 # Open your preferred IDE or code editor
 
