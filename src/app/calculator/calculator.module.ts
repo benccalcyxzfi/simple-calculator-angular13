@@ -8,6 +8,9 @@ import { CalculatorComponent } from './components';
   declarations: [
     CalculatorComponent
   ],
+  exports: [
+    CalculatorComponent
+  ],
   imports: [
     CommonModule
   ]
