@@ -38,7 +38,7 @@ git clone https://github.com/benccalcyxzfi/simple-calculator-angular13
 
 # Enter the project folder and run the command below:
 
-angular serve
+ng serve
 
 ```
 
